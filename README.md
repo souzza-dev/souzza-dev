@@ -36,7 +36,7 @@
 
 
 ### 🚀 Atualmente estudando
-- Java (nível avançado)
+- Java (nível básico)
 - Spring Boot
 - Bancos de dados (relacionais e não relacionais)
 - APIs REST
