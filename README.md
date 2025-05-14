@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Opa!+👋;+Eu+sou+o+Vitor!;&color=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=500&lines=Opa!+👋;+Eu+sou+o+Vitor!;&color=ffffff" />
 
 <div align="center" class="animated-header">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+FullStack++👩‍💻;Engenharia+de+software+🏗+💻;&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenharia+de+software+🏗+💻;Desenvolvedor+FullStack+👩‍💻;&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&duration=3000&pause=550&size=22" />
 </div>
 
 <div class="matrix-animation"></div>
@@ -33,18 +33,6 @@
 
 ![INCODE - Tech School](https://img.shields.io/badge/INCODE-Tech%20School-228B22?style=for-the-badge)
 <br>*2025 - 2025* | Concluído
-
-
-### 🚀 Atualmente estudando
-- Java (nível básico-intermediário)
-- Spring Boot
-- Bancos de dados (relacionais e não relacionais)
-- APIs REST
-- Conceitos de arquitetura back-end
-
-
-### 🎯 Objetivo Profissional
-Atualmente sou estudante de programação com foco em back-end, mas busco me tornar futuramente um completo **desenvolvedor Full Stack**, capaz de criar aplicações completas, escaláveis e bem estruturadas. Estou em constante evolução, estudando diariamente para adquirir conhecimento prático e me preparar para o mercado de trabalho.
 
 ---
 > Obrigado por visitar este repositório! Aqui você encontrará um pouco sobre mim e, futuramente, meus projetos que mostram minha evolução como desenvolvedor.
