@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Opa!+👋;+Eu+sou+o+Vitor!;&color=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=550&lines=Opa!+👋;+Eu+sou+o+Vitor!;&color=ffffff" />
 
 <div align="center" class="animated-header">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+FullStack++👩‍💻;Engenharia+de+software+🏗+💻;&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenharia+de+software+🏗+💻;Desenvolvedor+FullStack+👩‍💻;&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&duration=3000&pause=550&size=22" />
 </div>
 
 <div class="matrix-animation"></div>
@@ -16,7 +16,7 @@
 <br>
 
 ### 💻 Tecnologias:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=souzza-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)                                                                                                                                        ![](https://nirzak-streak-stats.vercel.app/?user=souzza-dev&theme=dark&hide_border=false)<br/>
@@ -34,21 +34,9 @@
 ![INCODE - Tech School](https://img.shields.io/badge/INCODE-Tech%20School-228B22?style=for-the-badge)
 <br>*2025 - 2025* | Concluído
 
-
-### 🚀 Atualmente estudando
-- Java (nível básico-intermediário)
-- Spring Boot
-- Bancos de dados (relacionais e não relacionais)
-- APIs REST
-- Conceitos de arquitetura back-end
-
-
-### 🎯 Objetivo Profissional
-Atualmente sou estudante de programação com foco em back-end, mas busco me tornar futuramente um completo **desenvolvedor Full Stack**, capaz de criar aplicações completas, escaláveis e bem estruturadas. Estou em constante evolução, estudando diariamente para adquirir conhecimento prático e me preparar para o mercado de trabalho.
-
----
 > Obrigado por visitar este repositório! Aqui você encontrará um pouco sobre mim e, futuramente, meus projetos que mostram minha evolução como desenvolvedor.
 > 
 [![](https://visitcount.itsvg.in/api?id=souzza-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
