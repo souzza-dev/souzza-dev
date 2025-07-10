@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=550&lines=Graduando+em;+Eu+sou+o+Vitor!;&color=ffffff" />
 
 <div align="center" class="animated-header">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenharia+de+software+🏗+💻;Desenvolvedor+FullStack+👩‍💻;&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&duration=3000&pause=550&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenharia+de+software;Desenvolvedor+FullStack;&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&duration=3000&pause=550&size=22" />
 </div>
 
 <div class="matrix-animation"></div>
