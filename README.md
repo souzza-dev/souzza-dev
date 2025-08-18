@@ -7,24 +7,40 @@
 
 <div class="matrix-animation"></div>
 
-### Desenvolvedor full-stack
-<span style="font-size: 12px;">Sou natural de São Luís - MA, tenho 19 anos e estou iniciando minha trajetória como desenvolvedor. Atualmente, estou focado em aprender e praticar tecnologias para o desenvolvimento de software, com maior interesse na área de **back-end**, mas com conhecimento também em **front-end**.</span>
-<br>
+### Estudante de desenvolvimento full-stack
 
-### 🌎 Fale comigo:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souzza_sn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-souza-68b3782aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.souzza.17@gmail.com) 
-<br>
+<p align="left">- Full stack development student<br>- Software Engineer student<br>- Content creator at @sn_dev</p>
 
-### 💻 Tecnologias:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p></p>
 
-### 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=souzza-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)                                                                                                                                        ![](https://nirzak-streak-stats.vercel.app/?user=souzza-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=souzza-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="left">Social Media</h2>
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
-### 🔝 Mais contribuídos:
-![](https://github-contributor-stats.vercel.app/api?username=souzza-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p></p>
+
+<h2 align="left">Techs</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+<div></div>
+
+<h2 align="left">Stats</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=souzza-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souzza-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzza-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 
 ### 🎓 Formação Acadêmica
@@ -32,7 +48,10 @@
 <br>*2025 - 2028* | Em andamento
 
 ![INCODE - Tech School](https://img.shields.io/badge/INCODE-Tech%20School-228B22?style=for-the-badge)
-<br>*2025 - 2025* | Concluído
+<br>*02/2025 - 06/2025 - Módulo 1* | Concluído
+
+![Static Badge](https://img.shields.io/badge/incode-tech_school-blue?style=for-the-badge&color=blue)
+<br>*08/2025 - 12/2025 - Módulo 2* | Cursando
 
 > Obrigado por visitar este repositório! Aqui você encontrará um pouco sobre mim e, futuramente, meus projetos que mostram minha evolução como desenvolvedor.
 > 
