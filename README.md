@@ -9,7 +9,7 @@
 
 ### Estudante de desenvolvimento full-stack
 
-<p align="left">- Full stack development student<br>- Software Engineer student<br>- Content creator at @sn_dev</p>
+<p align="left">- backend development student<br>- Software Engineer student<br>- Content creator at @sn_dev</p>
 
 <p></p>
 
