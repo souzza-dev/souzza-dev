@@ -7,7 +7,7 @@
 
 <div class="matrix-animation"></div>
 
-### Estudante de desenvolvimento full-stack
+### Estudante de desenvolvimento backend
 
 <p align="left">- backend development student<br>- Software Engineer student<br>- Content creator at @sn_dev</p>
 
