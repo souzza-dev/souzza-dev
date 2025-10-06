@@ -7,13 +7,15 @@
 
 <div class="matrix-animation"></div>
 
-### Estudante de Desenvolvimento Full-Stack
+### Quem sou eu ?
 
 <p align="left">
-  - 💻 Full-Stack development student.<br>
-  - 🏗 Software Engineer student.<br>
-  - 📍 Living in São Luís<br>
-  - 🎉 19 years old<br>
+  - 💻 Full-Stack development student;<br>
+  - 🏗 Software Engineer student;<br>
+  - 📍 Living in São Luís;<br>
+  - 🎉 19 years old;<br>
+  - 🏋️‍♂️ I train;<br>
+  - 🏐 I play volleyball;
 </p>
 
 <p></p>
