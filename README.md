@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=550&lines=Graduando+em;+Eu+sou+o+Paulo!;&color=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&pause=550&lines=Graduating+in;+I+am+Paulo!;&color=ffffff" />
 
 <div align="center" class="animated-header">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenharia+de+software;Desenvolvedor+web;&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&duration=3000&pause=550&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Web+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&duration=2400&pause=550&size=22" />
 </div>
 
 <div class="matrix-animation"></div>
 
-### Quem sou eu ?
+### Who i am?
 
 <p align="left">
   - 💻 Full-Stack development student;<br>
@@ -54,20 +54,19 @@
 </div>
 <br>
 
-### 🎓 Formação Acadêmica
+### 🎓 Academic training
 ![Engenharia de software - Anhanguera](https://img.shields.io/badge/Engenharia%20de%20software-Anhanguera-FF6700?style=for-the-badge) 
-<br>*2025 - 2028* | Em andamento
+<br>*2025 - 2028* | in progress
 
 ![INCODE - Tech School](https://img.shields.io/badge/INCODE-Tech%20School-228B22?style=for-the-badge)
-<br>*02/2025 - 06/2025 - Módulo 1* | Concluído
+<br>*02/2025 - 06/2025 - Módulo 1* | completed
 
 ![Static Badge](https://img.shields.io/badge/incode-tech_school-blue?style=for-the-badge&color=blue)
-<br>*08/2025 - 12/2025 - Oxigenação* | Cursando
+<br>*08/2025 - 12/2025 - Oxigenação* | in progress
 
 ###
 
-> Obrigado por visitar este repositório! Aqui você encontrará um pouco sobre mim e, futuramente, meus projetos que mostram minha evolução como desenvolvedor.
-> 
+> Thanks for visiting this repository! Here you'll find a little about me and, in the future, my projects that showcase my evolution as a developer.
 [![](https://visitcount.itsvg.in/api?id=souzza-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
